@@ -1,7 +1,7 @@
 # House-Price-Analysis
-Determine the value of residential properties by predicting the market price using a set of attributes
+#Determine the value of residential properties by predicting the market price using a set of attributes
 
-The project involved variable selection and the creation of a machine learning models from scratch that forecasts the price of houses based on variables like the number of rooms, area, etc. as closely as possible to the original values. • A machine learning model for predicting housing prices was created using linear regression, lasso regression and stepwise regression.
+#The project involved variable selection and the creation of a machine learning models from scratch that forecasts the price of houses based on variables #like the number of rooms, area, etc. as closely as possible to the original values. A machine learning model for predicting housing prices was created #using linear regression, lasso regression and stepwise regression.
 
 Data Cleaning: Our first approach involves looking at the ‘predict_property_data’ and analyzing what property descriptors may influence the ‘sale_price’ of a property which is our dependent variable. The steps mentioned below involve a series of decisions based on statistical analysis and research using the data dictionary given.
 1. We first remove the columns which have null values greater than 50% compared to the total data available:
